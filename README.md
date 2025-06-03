@@ -31,7 +31,3 @@ Most of my work is client-based and under NDA, but you can check out:
 
 - [Portfolio](https://permaculture.ar/proyectos)
 - [Permaculture Agency](https://permaculture.ar)
-
----
-
-**📧 Contact:** [hello@permaculture.dev](mailto:hello@permaculture.dev)
