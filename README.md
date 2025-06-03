@@ -1,16 +1,37 @@
-## Hi there 👋
+# Permaculture
 
-<!--
-**6onza/6onza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web development agency focused on clean, functional digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I do
+
+Full-stack web development with focus on performance and user experience. Currently running **Permaculture**, a small development agency.
+
+## ⚡ Stack
+
+```
+Frontend  → Vue.js
+Styling   → Bootstrap5, Vuetify
+Backend   → Django, Django REST Framework, Python
+Database  → PostgreSQL
+Tools     → Docker, VS Code, Figma
+```
+
+## 🔧 Current work
+
+- Building modern web applications
+- Digital identity design
+- Performance optimization
+- Mobile-responsive interfaces
+
+## 📂 Projects
+
+Most of my work is client-based and under NDA, but you can check out:
+
+- [Portfolio](https://permaculture.ar/proyectos)
+- [Permaculture Agency](https://permaculture.ar)
+
+---
+
+**📧 Contact:** [hello@permaculture.dev](mailto:hello@permaculture.dev)
