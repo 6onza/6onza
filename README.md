@@ -29,5 +29,5 @@ Tools     → Docker, VS Code, Figma
 
 Most of my work is client-based and under NDA, but you can check out:
 
-- [Portfolio](https://permaculture.ar/proyectos)
+- [Portfolio](https://permaculture.ar/portfolio)
 - [Permaculture Agency](https://permaculture.ar)
