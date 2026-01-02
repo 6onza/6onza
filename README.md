@@ -11,11 +11,12 @@ Full-stack web development with focus on performance and user experience. Curren
 ## ⚡ Stack
 
 ```
-Frontend  → Vue.js
-Styling   → Bootstrap5, Vuetify
-Backend   → Django, Django REST Framework, Python
-Database  → PostgreSQL
-Tools     → Docker, VS Code, Figma
+Frontend   → Vue.js
+Mobile     → Ionic (Vue)
+Styling    → Bootstrap5, Vuetify
+Backend    → Django, Django REST Framework, Python
+Database   → PostgreSQL
+Tools      → Docker, VS Code, Figma
 ```
 
 ## 🔧 Current work
